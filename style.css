@@ -1,0 +1,140 @@
+ /* Build a Product Landing Page freecode camp challenge styles */
+body{
+		font-family: Arial, Helvetica, sans-serif;
+		background-color: #eeeeee;
+}
+
+#header{
+		background-color: #eeeeee;
+		color: #000000;
+		text-align: center;
+		padding: 20px;
+}
+
+#nav{
+		line-height: 30px;
+		background-color: #eeeeee;
+		height: 300px;
+		width: 100px;
+		float: left;
+		padding: 5px;	      
+}
+
+section{
+		margin:  0 auto;
+		width: 100%;
+		padding: 10px;
+		background-color: #eeeeee;
+		color: #000000;
+		padding: 5px;
+}
+#form {
+		background-color: #eeeeee;
+		color: #000000;
+		text-align: center;
+		padding: 5px;
+}
+#form input[type=text], input[type=email] {
+		max-width: 400px;
+		padding: 12px 20px;
+		margin: 8px 0;
+		display: inline-block;
+		border: 1px solid #ccc;
+		box-sizing: border-box;
+}
+
+#form input[type=submit] {
+		background-color: #4CAF50;
+		color: white;
+		padding: 14px 20px;
+		margin: 8px 0;
+		border: none;
+		cursor: pointer;
+		max-width: 150px;
+}
+section h1{
+		font-size: 20px;
+		font-weight: bold;
+		color: #000000;
+		text-align: center;
+		padding: 5px;
+}
+
+#features{
+		background-color: #eeeeee;
+		color: #000000;
+		text-align: center;
+		padding: 5px;
+}
+/* place section in the middle */
+#how-it-works{
+		background-color: #eeeeee;
+		color: #000000;
+		text-align: center;
+		padding: 5px;
+	margin: 0 auto;
+
+}
+ol{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: #eeeeee;
+		color: #000000;
+		text-align: center;
+		padding: 5px;
+}
+
+#pricing{
+		background-color: #eeeeee;
+		color: #000000;
+		text-align: center;
+		padding: 5px;
+}
+
+table{
+		border-collapse: collapse;
+		width: 100%;
+}
+
+table th{
+		background-color: #eeeeee;
+		color: #000000;
+		text-align: center;
+		padding: 5px;
+}
+
+table tr {
+	background-color: #fff;
+	box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+table td {
+		border: 1px solid #dddddd;
+		text-align: left;
+		padding: 8px;
+}
+table td button{
+		background-color: #4CAF50;
+		color: #ffffff;
+		border: none;
+		padding: 5px 10px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 12px;
+		margin: 4px 2px;
+		cursor: pointer;
+}
+
+#footer{
+		background-color: #eeeeee;
+		color: #000000;
+		clear: both;
+		text-align: center;
+		padding: 5px;	 	 
+}
+
+
+
+
